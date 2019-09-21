@@ -1,0 +1,39 @@
+Copyright (c) 2019 Francesco Brocca
+
+MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+CERN Open Hardware Licence
+In the spirit of knowledge sharing and dissemination, the CERN Open
+Hardware Licence (CERN OHL) governs the use, copying, modification and
+distribution of hardware design documentation, and the manufacture and
+distribution of products.
+The CERN–OHL is to hardware what the General Public Licence (GPL) is
+to software. It defines the conditions under which a licensee will be
+able to use or modify the licensed material. The concept of ‘open-source
+hardware’ or ‘open hardware’ is not yet as well known or widespread as
+the free software or open-source software concept. However, it shares
+the same principles: **anyone should be able to see the source (the
+design documentation in case of hardware), study it, modify it and share
+it.
+In addition, if modifications are made and distributed, it must be
+under the same licence conditions – this is the ‘persistent’ nature of
+the licence, which ensures that the whole community will continue
+benefiting from improvements, in the sense that everyone will in turn be
+able to make modifications to these improvements.
