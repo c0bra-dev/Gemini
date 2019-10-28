@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -25665,7 +25665,6 @@ Solder type</description>
 <attribute name="VALUE" x="202.184" y="101.981" size="1.778" layer="96"/>
 </instance>
 <instance part="C8" gate="G$1" x="241.3" y="149.86" smashed="yes">
-<attribute name="NAME" x="-304.8" y="149.86" size="1.778" layer="95"/>
 <attribute name="VALUE" x="243.84" y="144.78" size="1.778" layer="96"/>
 </instance>
 <instance part="C11" gate="G$1" x="231.14" y="149.86" smashed="yes">
