@@ -1,5 +1,6 @@
-Windows 10 solitamente installa il driver "Dispositivo seriale USB" automaticamente. La scheda dovrebbe quindi essere plug and play.
-Se il driver dovesse non essere installato correttamente scaricare Zadig (https://zadig.akeo.ie/)
+Windows 10 sembra il driver "Dispositivo seriale USB" automaticamente. La scheda dovrebbe quindi essere plug and play.
+Nelle altre version o in caso di problemi è necessario installare il driver manualmente.
+Scaricare Zadig (https://zadig.akeo.ie/)
 Lanciare Zadig come amministratore, selezionare Gemini (interface 0), e selezionare nel menu driver USB Serial (CDC).
 Premere Install WCID Driver.
-Potrebbe essere necessario ripetere la procedura dopo aver caricato il primo sketch: gli identificativi hardware potrebbero differire.
+Potrebbe essere necessario ripetere la procedura dopo aver caricato il primo sketch a causa della differente identificazione del driver.
